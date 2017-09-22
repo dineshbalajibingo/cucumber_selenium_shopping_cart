@@ -1,1 +1,4 @@
-I have created TestRunner.class for cucumber feature execution. Path - src\test\java\com\nordstrom\demo\cucumber
+Cucumber Selenium Test for a shopping card
+================================
+
+Using cucumber feature file, all scenarios are validated in shopping cart
